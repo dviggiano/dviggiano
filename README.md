@@ -3,4 +3,4 @@ I'm a developer interested in software architecture, reinforcement learning, and
 Feel free to contact me via [dviggiano@wisc.edu](dviggiano@wisc.edu).
 
 ## Current Projects
-* [https://github.com/dviggiano/maze-factory](Maze Factory)
+* <a href=https://github.com/dviggiano/maze-factory>Maze Factory</a>
