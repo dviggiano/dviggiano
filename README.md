@@ -4,3 +4,4 @@ Feel free to contact me via [dviggiano@wisc.edu](dviggiano@wisc.edu).
 
 ## Current Projects
 * <a href=https://github.com/dviggiano/maze-factory>Maze Factory</a>
+* Evolution computing project
