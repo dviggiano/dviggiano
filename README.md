@@ -1,4 +1,4 @@
-I'm a developer interested in software architecture, reinforcement learning, games, and creating novel digital experiences. I'm highly experienced with Python and Java, and have a thorough working knowledge of JavaScript. I've also worked with languages and technologies like C, C#, Kotlin, React (Native), Django, Flask, and Unity.
+I'm a developer interested in software architecture, reinforcement learning, games, and creating novel digital experiences. I'm highly experienced with Python and Java, and have a thorough working knowledge of JavaScript. I've also worked with languages and technologies like C, C#, Kotlin, React (Native), Angular, Django, Flask, and Unity.
 
 Feel free to contact me via [dviggiano@wisc.edu](dviggiano@wisc.edu).
 
