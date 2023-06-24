@@ -4,4 +4,4 @@ Feel free to contact me via [dviggiano@wisc.edu](dviggiano@wisc.edu).
 
 ## Current Projects
 * <a href=https://github.com/dviggiano/maze-factory>Maze Factory</a> - mobile app for building, sharing, and playing mazes
-* <a href=https://github.com/dviggiano/notation>Notation</a> - music recommendation engine prototype API
+* <a href=https://github.com/dviggiano/notation>Notation</a> - REST API for interfacing with a music recommendation engine prototype
