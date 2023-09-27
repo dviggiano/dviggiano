@@ -1,3 +1,3 @@
-I'm a software engineer and designer interested in reinforcement learning, software architecture, games, AI alignment, and building platforms that enable creativity and unique experiences.
+I'm a software engineer and designer interested in project management, software architecture, AI alignment, reinforcement learning, games, and building platforms that enable creativity and unique experiences.
 
 More at https://dviggiano.com.
